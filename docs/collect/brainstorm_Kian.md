@@ -1,5 +1,4 @@
-# Bilal Kerkeni Kalabi
-
+# Raqo
 - Gebruik gradio om de api te showcasen
 - Gebruik laraven voor het project
 - Gebruik een bestaande api voor de data 
